@@ -1,1 +1,1 @@
-# CS50-2020-psets
+# HarvardX CS50 2020 problem sets
